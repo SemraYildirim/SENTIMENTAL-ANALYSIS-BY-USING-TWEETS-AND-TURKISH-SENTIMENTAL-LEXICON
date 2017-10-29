@@ -3,7 +3,7 @@
 '''
 Created on Apr 18, 2017
 
-@author: hacip
+@author: Semra
 '''
 
 from twython import Twython
